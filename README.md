@@ -1,2 +1,2 @@
 # standard-deviation-calculator
-Simple Statistic Calculator of standard deviation utilizing arrays
+Simple standard deviation calculator through the usage of vectors.
